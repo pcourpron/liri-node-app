@@ -1,1 +1,3 @@
 # liri-node-app
+
+A command line app that uses various npm modules to reutrns concert locations, songs from spotify, movie reviews etc...
